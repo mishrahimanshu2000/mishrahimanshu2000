@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mishrahimanshu2000
-- 👀 I’m interested in java and software development...
-- ❤ Android Development
-- 💻BlockChain
-- 🌱 I’m currently learning Java...
+- 👀 I’m interested in JAVA, C#, AI and software development...
+- ❤  Software
+- 💻 AI, .NET  
+- 🌱 Software Engineer @Finastra
 - 📫 How to reach me https://www.linkedin.com/in/himanshu-mishra-golu/
 
 <!---
